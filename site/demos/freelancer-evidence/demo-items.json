@@ -1,0 +1,56 @@
+[
+  {
+    "id": "demo-freelancer-evidence-a",
+    "file": "invoice-dispute-call.m4a",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "Evidence packet ties a verbal scope change to follow-up deliverables and shows the client approved final assets before withholding payment. Recommended binder order is agreement, change discussion excerpt, shipped files, then the unpaid invoice timeline.",
+    "tags": [
+      "scope-change",
+      "approval",
+      "invoice"
+    ],
+    "flagged": true,
+    "demo": true,
+    "searchSummary": "invoice dispute, scope drift, approval trail",
+    "whyItMatters": "One client record becomes part of a searchable proof trail.",
+    "searchIntro": "One client record becomes part of a searchable proof trail. Search across the seeded records to feel that inside the app.",
+    "searchOutputs": []
+  },
+  {
+    "id": "demo-freelancer-evidence-b",
+    "file": "Related invoice-dispute-call.m4a",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "A second seeded record extends the same workflow so in-app search and reuse are visible instead of theoretical.",
+    "tags": [
+      "scope-change",
+      "approval",
+      "related"
+    ],
+    "flagged": false,
+    "demo": true,
+    "searchSummary": "related signals, continuity, reuse",
+    "whyItMatters": "One client record becomes part of a searchable proof trail.",
+    "searchIntro": "One client record becomes part of a searchable proof trail. Search across the seeded records to feel that inside the app.",
+    "searchOutputs": []
+  },
+  {
+    "id": "demo-freelancer-evidence-c",
+    "file": "Follow-up invoice-dispute-call.m4a",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "A third seeded record shows how this app can connect follow-up work, recurring themes, and downstream use without leaving the demo experience.",
+    "tags": [
+      "scope-change",
+      "approval",
+      "follow-up"
+    ],
+    "flagged": false,
+    "demo": true,
+    "searchSummary": "follow-up, memory, downstream action",
+    "whyItMatters": "One client record becomes part of a searchable proof trail.",
+    "searchIntro": "One client record becomes part of a searchable proof trail. Search across the seeded records to feel that inside the app.",
+    "searchOutputs": []
+  }
+]
