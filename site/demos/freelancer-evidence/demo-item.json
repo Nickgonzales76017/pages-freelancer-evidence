@@ -1,7 +1,7 @@
 {
   "id": "demo-freelancer-evidence",
   "file": "invoice-dispute-call.m4a",
-  "time": "Demo dataset",
+  "time": "Reference corpus",
   "status": "complete",
   "brief": "Evidence packet ties a verbal scope change to follow-up deliverables and shows the client approved final assets before withholding payment. Recommended binder order is agreement, change discussion excerpt, shipped files, then the unpaid invoice timeline.",
   "tags": ["scope-change", "approval", "invoice"],
