@@ -1,56 +1,110 @@
 [
   {
-    "id": "demo-freelancer-evidence-a",
-    "file": "invoice-dispute-call.m4a",
-    "time": "Reference corpus",
+    "id": "handle-difficult-clients",
+    "file": "How to Handle Difficult Clients as a Freelancer: Tips on Diplomacy & Setting Boundaries for Success",
+    "time": "Public origin \u00b7 89s",
     "status": "complete",
-    "brief": "Evidence packet ties a verbal scope change to follow-up deliverables and shows the client approved final assets before withholding payment. Recommended binder order is agreement, change discussion excerpt, shipped files, then the unpaid invoice timeline.",
+    "brief": "Regular check-ins and updates can help keep your client  informed and involved in the process. Freelancing offers incredible freedom,  but it also comes with its own set of challenges. One of the most daunting is dealing with clients  who are, let's say, less than easygoing. They might be overly demanding, unclear in their communication,  or even late with payments.",
     "tags": [
-      "scope-change",
-      "approval",
-      "invoice"
+      "dispute",
+      "scope",
+      "client",
+      "invoice",
+      "evidence"
     ],
     "flagged": true,
     "demo": true,
-    "searchSummary": "invoice dispute, scope drift, approval trail",
-    "whyItMatters": "One client record becomes part of a searchable proof trail.",
-    "searchIntro": "One client record becomes part of a searchable proof trail. Search across the reference records to feel that inside the app.",
-    "searchOutputs": []
+    "sourceUrl": "https://www.youtube.com/watch?v=O3UE8xHKNzQ",
+    "sourceLabel": "Watch original public video",
+    "sourceTitle": "How to Handle Difficult Clients as a Freelancer: Tips on Diplomacy & Setting Boundaries for Success",
+    "publisher": "gigexchange",
+    "license": "Public YouTube video processed transiently. Bonfyre retained only derived artifacts.",
+    "sourceCopy": "Source: gigexchange on YouTube. Bonfyre downloaded, transcribed, and deleted the media. Only the transcript, brief, and proof remain.",
+    "whyItMatters": "Each client interaction becomes part of a searchable evidence trail \u2014 scope changes, approvals, and payment records tied to source audio.",
+    "searchSummary": "dispute, scope, client",
+    "searchIntro": "Search across the freelancer evidence records to see how Bonfyre connects related content from different sources.",
+    "outputs": [
+      "evidence brief",
+      "clean transcript",
+      "proof bundle",
+      "search across records"
+    ],
+    "outputNotes": {
+      "evidence brief": "Bonfyre extracted the key points from the source audio into a structured evidence brief.",
+      "clean transcript": "The raw transcript cleaned of filler words, false starts, and artifacts.",
+      "proof bundle": "Full provenance chain: source URL, transcription confidence, processing recipe, and quality flags."
+    },
+    "outputLinks": {
+      "brief": {
+        "href": "demos/freelancer-evidence/proofs/handle-difficult-clients/brief.md",
+        "label": "Open brief"
+      },
+      "clean transcript": {
+        "href": "demos/freelancer-evidence/proofs/handle-difficult-clients/clean.txt",
+        "label": "Open clean transcript"
+      },
+      "proof bundle": {
+        "href": "demos/freelancer-evidence/proofs/handle-difficult-clients/proof.json",
+        "label": "Open proof JSON"
+      }
+    },
+    "searchOutputs": [
+      "search across records"
+    ],
+    "proofPath": "demos/freelancer-evidence/proofs/handle-difficult-clients"
   },
   {
-    "id": "demo-freelancer-evidence-b",
-    "file": "Related invoice-dispute-call.m4a",
-    "time": "Reference corpus",
+    "id": "mastering-client-disputes",
+    "file": "Mastering Client Disputes: A Freelancer's Guide to Conflict Resolution | Gig Economy Disagreements",
+    "time": "Public origin \u00b7 475s",
     "status": "complete",
-    "brief": "A second reference record extends the same workflow so in-app search and reuse are visible instead of theoretical.",
+    "brief": "By addressing disputes strategically,  you can turn potential setbacks into stepping  stones for professional development. By recognizing these pitfalls, you can take proactive steps  to clarify expectations and prevent issues from escalating. Understanding the types of disputes that can arise  is your first step toward maintaining balance and control. First, scope changes occur when a client requests additional work  beyond the initial agreement.",
     "tags": [
-      "scope-change",
-      "approval",
-      "related"
+      "dispute",
+      "scope",
+      "client",
+      "invoice",
+      "evidence"
     ],
     "flagged": false,
     "demo": true,
-    "searchSummary": "related signals, continuity, reuse",
-    "whyItMatters": "One client record becomes part of a searchable proof trail.",
-    "searchIntro": "One client record becomes part of a searchable proof trail. Search across the reference records to feel that inside the app.",
-    "searchOutputs": []
-  },
-  {
-    "id": "demo-freelancer-evidence-c",
-    "file": "Follow-up invoice-dispute-call.m4a",
-    "time": "Reference corpus",
-    "status": "complete",
-    "brief": "A third reference record shows how this app can connect follow-up work, recurring themes, and downstream use without leaving the demo experience.",
-    "tags": [
-      "scope-change",
-      "approval",
-      "follow-up"
+    "sourceUrl": "https://www.youtube.com/watch?v=LCaFuT7xPck",
+    "sourceLabel": "Watch original public video",
+    "sourceTitle": "Mastering Client Disputes: A Freelancer's Guide to Conflict Resolution | Gig Economy Disagreements",
+    "publisher": "gigexchange",
+    "license": "Public YouTube video processed transiently. Bonfyre retained only derived artifacts.",
+    "sourceCopy": "Source: gigexchange on YouTube. Bonfyre downloaded, transcribed, and deleted the media. Only the transcript, brief, and proof remain.",
+    "whyItMatters": "Each client interaction becomes part of a searchable evidence trail \u2014 scope changes, approvals, and payment records tied to source audio.",
+    "searchSummary": "dispute, scope, client",
+    "searchIntro": "Search across the freelancer evidence records to see how Bonfyre connects related content from different sources.",
+    "outputs": [
+      "evidence brief",
+      "clean transcript",
+      "proof bundle",
+      "search across records"
     ],
-    "flagged": false,
-    "demo": true,
-    "searchSummary": "follow-up, memory, downstream action",
-    "whyItMatters": "One client record becomes part of a searchable proof trail.",
-    "searchIntro": "One client record becomes part of a searchable proof trail. Search across the reference records to feel that inside the app.",
-    "searchOutputs": []
+    "outputNotes": {
+      "evidence brief": "Bonfyre extracted the key points from the source audio into a structured evidence brief.",
+      "clean transcript": "The raw transcript cleaned of filler words, false starts, and artifacts.",
+      "proof bundle": "Full provenance chain: source URL, transcription confidence, processing recipe, and quality flags."
+    },
+    "outputLinks": {
+      "brief": {
+        "href": "demos/freelancer-evidence/proofs/mastering-client-disputes/brief.md",
+        "label": "Open brief"
+      },
+      "clean transcript": {
+        "href": "demos/freelancer-evidence/proofs/mastering-client-disputes/clean.txt",
+        "label": "Open clean transcript"
+      },
+      "proof bundle": {
+        "href": "demos/freelancer-evidence/proofs/mastering-client-disputes/proof.json",
+        "label": "Open proof JSON"
+      }
+    },
+    "searchOutputs": [
+      "search across records"
+    ],
+    "proofPath": "demos/freelancer-evidence/proofs/mastering-client-disputes"
   }
 ]

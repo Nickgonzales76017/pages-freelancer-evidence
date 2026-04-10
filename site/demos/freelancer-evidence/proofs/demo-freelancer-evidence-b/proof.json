@@ -1,0 +1,16 @@
+{
+  "title": "freelancer-evidence \u2014 cEe5298bifw",
+  "public_url": "https://www.youtube.com/watch?v=cEe5298bifw",
+  "source": {
+    "title": "Small Claims Hearing - What to Expect",
+    "channel": "Legal Aid Center of Southern Nevada",
+    "duration_seconds": 119
+  },
+  "transcribe": {
+    "avg_confidence": 0.9416,
+    "rtf": 0.04,
+    "segments_total": 29,
+    "segments_hallucinated": 6
+  },
+  "retained_media": false
+}
